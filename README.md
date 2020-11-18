@@ -6,5 +6,8 @@ To run it:
 
 ```
 yarn
+cd client
+yarn
+cd ..
 yarn dev
 ```
